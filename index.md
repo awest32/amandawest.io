@@ -12,7 +12,7 @@ hascode = false
         <h1 class="title">Amanda West</h1>
         <l>Ph.D. Candidate, Georgia Institute of Technology</l>
         <p>
-        I am a Ph.D. candidate in the <a href="https://ece.gatech.edu/">School of Electrical and Computer Engineering</a> at the <a href="https://www.gatech.edu/">Georgia Institute of Technology</a>, where I am advised by <a href="https://molzahn.github.io/">Dr. Daniel K. Molzahn</a> in the Global Optimization and Advanced Learning (GOAL) Lab.
+        I am a Ph.D. candidate in the <a href="https://ece.gatech.edu/">School of Electrical and Computer Engineering</a> at the <a href="https://www.gatech.edu/">Georgia Institute of Technology</a>, where I am advised by <a href="https://molzahn.github.io/">Dr. Daniel K. Molzahn</a> in the Grid Optimization and Algorithms Laboratory (GOAL) Lab.
         </p>
 
         <p>
