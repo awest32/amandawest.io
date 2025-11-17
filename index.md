@@ -23,7 +23,7 @@ hascode = false
         I am privileged for my work to be supported by the <a href="https://nsfgrfp.org/">NSF Graduate Research Fellowship Program</a> (GRFP), the <a href="https://www.gemfellowship.org/gem-fellowship-program/">GEM Fellowship</a>, the <a href="https://coe.gatech.edu/future-engineers/k-20-initiatives/pathbreakers">Pathbreakers Fellowship</a>, and the <a href="https://grad.gatech.edu/presidents-fellowship">Georgia Tech President's Fellowship</a>.
         </p>
         
-        <div style="text-align: center;"><a href="mailto:awest32@gatech.edu">email</a>&ensp;//&ensp;<a href="https://scholar.google.com/citations?user=J_yESAMAAAAJ">scholar</a>&ensp;//&ensp;<a href='https://github.com/awest32'>github</a>&ensp;//&ensp;<a href='https://www.linkedin.com/in/aj-west/'>linkedin</a>&ensp;//&ensp;<a href='https://github.com/awest32/amandawest.io/blob/main/Amanda%20West%20Curriculum%20Vitae.pdf'>CV</a></div>
+        <div style="text-align: center;"><a href="mailto:awest32@gatech.edu">email</a>&ensp;//&ensp;<a href="https://scholar.google.com/citations?user=J_yESAMAAAAJ">scholar</a>&ensp;//&ensp;<a href='https://github.com/awest32'>github</a>&ensp;//&ensp;<a href='https://www.linkedin.com/in/aj-west/'>linkedin</a>&ensp;//&ensp;<a href='https://github.com/awest32/amandawest.io/blob/main/Amanda%20West%20Curriculum%20Vitae.html'>CV</a></div>
     </div>
     <div class="col_right_home" style="padding-top: 50px;">
         <img id="me" src="/assets/2025_headshot.png">
